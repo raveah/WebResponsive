@@ -7,9 +7,7 @@ Introduction
 ------------
 
 Ini adalah Template Web Responsive. 
-
 Template ini bisa digunakan untuk membuat sebuah website yang responsive.
-
 
 created date 2020. 
 
